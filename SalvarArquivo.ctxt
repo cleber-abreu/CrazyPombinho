@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=caminho
+comment0.target=SalvarArquivo(java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ lerArquivo()
+comment2.params=escrever
+comment2.target=void\ gravarArquivo(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ criarArquivo()
+numComments=4

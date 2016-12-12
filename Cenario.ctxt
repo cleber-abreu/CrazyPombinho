@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.params=largura\ altura
+comment0.target=Cenario(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Cenario.\r\n\ \r\n
+numComments=1

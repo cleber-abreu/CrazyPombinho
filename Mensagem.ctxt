@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=texto\ largJanela\ altJanela\ tamFonte\ distXTexto\ distYTexto
+comment0.target=Mensagem(java.lang.String,\ int,\ int,\ int,\ int,\ int)
+numComments=1
