@@ -84,11 +84,10 @@ public class Partida extends Cenario
           musica.stop();
           
           List pombos = getObjects(Pombo.class);
-          addObject(new Sangue(), (((Pombo)pombos.get(0)).getX()), (((Pombo)pombos.get(0)).getY()) + 2);
           
       }
       if(vidas < -1){
-          //Greenfoot.setWorld(new MenuFase());
+          Greenfoot.setWorld(new MenuFase());
       }
       
         
